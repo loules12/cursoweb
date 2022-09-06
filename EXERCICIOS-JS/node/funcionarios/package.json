@@ -1,0 +1,14 @@
+{
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "Projeto para funcionarios",
+  "main": "outro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Basílio Neto",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
